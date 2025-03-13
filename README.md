@@ -2,9 +2,7 @@
 
 Part of my Software Engineering degree at Curtin University Colombo in 2024.
 
-This unit focused on **mobile application development** using **Android Studio** and **modern Android development practices**. My final mark was **98**.
-
-There’s no proper commit history because it wasn’t developed using GitHub.
+This unit focused on **mobile application development** using **Android Studio** and **modern Android development practices**. My final mark was **98%**.
 
 ---
 
